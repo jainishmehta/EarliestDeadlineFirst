@@ -1,7 +1,4 @@
-/**
- * Perform timeline scheduling on a taskset.
- * @author Andrew Morton
- */
+
 
 #include "sched.h"
 #include <stdio.h>
